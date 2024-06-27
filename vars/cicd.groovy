@@ -1,6 +1,6 @@
 def gitDownload(repo)
 {
-  git "https://github.com/Imrantech3057/mvnproj.git"
+  git "https://github.com/Imrantech3057/${repo}"
 }
 def mavenBuild()
 {
